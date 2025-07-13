@@ -238,7 +238,7 @@ function App() {
 
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1635424824849-c5b5e8b6e8e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="https://cdn.pixabay.com/photo/2015/09/17/12/04/solar-panels-943999_960_720.jpg" 
                 alt="Профессиональные кровельщики за работой"
                 className="rounded-lg shadow-lg w-full"
               />
